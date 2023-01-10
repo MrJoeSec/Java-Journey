@@ -1,2 +1,2 @@
 # Java codes
-1. Circle Area Calculator
+This is a series of projects I wrote to learn Java.

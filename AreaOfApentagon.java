@@ -1,4 +1,3 @@
-package CompletedProjects;
 import java.util.Scanner;
 
 public class AreaOfApentagon {

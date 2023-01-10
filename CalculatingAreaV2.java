@@ -1,4 +1,3 @@
-package CompletedProjects;
 import java.util.Scanner;
 //updated version of CalculatingArea.java
 //To combat the fact that my program was too messy, I learned how to use methods, rather than just having everything in the main program.

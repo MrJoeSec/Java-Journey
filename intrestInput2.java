@@ -1,4 +1,3 @@
-package CompletedProjects;
 import java.util.Scanner;
 public class intrestInput2 {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package CompletedProjects;
+
 import java.util.Scanner;
 public class QuickMaths {
     public static void main(String [] args){
